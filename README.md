@@ -13,9 +13,9 @@ This is my **personal portfolio website** — a place where I try to look profes
 
 ---
 
-## 🚀 Tech Stack  
+## Tech Stack  
 - **HTML / CSS / JavaScript** – the holy trinity.  
-- Maybe a sprinkle of ✨ magic ✨ (or just bugs disguised as features).  
+- Maybe a sprinkle of magic (or just bugs disguised as features).  
 
 ---
 
