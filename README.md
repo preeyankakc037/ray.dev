@@ -29,7 +29,7 @@ This is my **personal portfolio website** — a place where I try to look profes
 ---
 
 ## 📸 Sneak Peek  
-👉 [Insert Demo Link Here]  
+👉coming soon....................
 
 ---
 
@@ -39,6 +39,6 @@ But ideas are always welcome!
 
 ---
 
-## 📌 Note  
+## Note  
 I’m making this mostly to **maintain my streak**.  
 But hey, maybe it’ll also help me land a job someday 😉  
