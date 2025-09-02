@@ -9,7 +9,7 @@ This is my **personal portfolio website** — a place where I try to look profes
 - Looks cool (hopefully).  
 - Talks about me (because who else would it talk about?).  
 - Responsive design (so it won’t break… unless it does).  
-- Hosted on the internet 🌍.  
+- Hosted on the internet.  
 
 ---
 
