@@ -19,12 +19,12 @@ This is my **personal portfolio website** — a place where I try to look profes
 
 ---
 
-## 🎯 Purpose  
+## Purpose  
 - Half portfolio  
 - Half experiment  
 - Half streak-maintainer  
 - Half fun project  
-- Half… wait that’s too many halves 🤔  
+- Half… wait that’s too many halves 
 
 ---
 
